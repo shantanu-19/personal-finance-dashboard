@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+.streamlit/
+# Ignore your private data if you don't want to share finances on GitHub
+data/finances.csv
